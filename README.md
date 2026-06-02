@@ -35,8 +35,8 @@ Menampilkan ringkasan data perpustakaan berupa:
 
 URL:
 
-```[text](http://localhost:8000)
-/dashboard
+```[text]
+(http://localhost:8000)/dashboard
 ```
 
 ---
